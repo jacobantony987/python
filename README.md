@@ -1,27 +1,23 @@
-# ME010203 Numerical Analysis with Python3
-(M.Sc. Mathematics, MG University)
+#MG5SECMAT300 Introduction to Python for Mathematical Computation
+(BSc (Hons) Mathematics, MG University)
 ## Module 1
-Defining Symbols and Symbolic Operations, Working with Expressions,
-Solving Equations and Plotting Using SymPy, problems on factor finder,
-summing a series and solving single variable inequalities
-**Amit Saha, Doing Math with Python, Chapter 4**
+Getting started with Python,Variables and Data Types,Operators and their 
+Precedence,Python String, Python Lists,Mutable and Immutable Types, Input from 
+the Keyboard, Iteration: while and for loops, Conditional Execution: if, elif 
+and else, Modify loops : break and continue, Functions, More on Strings and 
+Lists, Python Modules and Packages
+**Ajith Kumar B.P., Python for Education, Chapter 2 – Sections: 2.1 to 2.10 & 2.13 to 2.15**
 ## Module 2
-Finding the limit of functions, finding the derivative of functions, higher-order 
-derivatives and finding the maxima and minima and finding the integrals of
-functions are to be done. in the section programming challenges, the following
-problems - verify the continuity of a function at a point, area between two
-curves and finding the length of a curve  
-**Amit Saha, Doing Math with Python, Chapter 7**
+The NumPy Module -Creating Arrays and Matrices, Copying, Arithmetic Operations, 
+Cross product, Dot product, Saving and Restoring, Matrix inversion. Vectorized 
+Functions.
+**Ajith Kumar B.P., Python for Education, Chapter 3 – Sections: 3.1 & 3.2**
 
 ## Module 3
-Interpolation and Curve Fitting, Polynomial Interpolation, Lagrange's
-Method, Newton's Method and Limitations of Polynomial Interpolation,  
-Roots of Equations, Method of Bisection and Newton-Raphson Method.
-**Jaan Kiusalaas, Numerical Methods in Engineering with Python3, Chapter 3 Sections 3.1, 3.2 Chapter 4 Sections 4.1, 4.3, 4.5**
+The Matplotlib Module, Plotting mathematical functions, Famous Curves, Power 
+Series, Fourier Series, 2D plot using colors, Fractals, Meshgrids, 3D Plots. 
+Mayavi, 3D visualization.
+**Ajith Kumar B.P., Python for Education, Chapter 4 – Sections: 4.1 to 4.10**
 
 ## Module 4
-Gauss Elimination Method (excluding Multiple Sets of Equations), Doolittle's 
-Decomposition Method only from LU Decomposition Methods
-Numerical Integration, Newton-Cotes Formulas, Trapezoidal rule, Simpson's 
-rule and Simpson's 3/8 rule.
-**Jaan Kiusalaas, Numerical Methods in Engineering with Python3, Chapter 2 Sections 2.2, 2.3 Chapter 6 Sections 6.1, 6.2**
+**Teacher Specific Contents (only for internal evaluation)**
