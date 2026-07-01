@@ -1,4 +1,4 @@
-#MG5SECMAT300 Introduction to Python for Mathematical Computation
+# MG5SECMAT300 Introduction to Python for Mathematical Computation
 (BSc (Hons) Mathematics, MG University)
 ## Module 1
 Getting started with Python,Variables and Data Types,Operators and their 
